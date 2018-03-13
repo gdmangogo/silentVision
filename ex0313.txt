@@ -3,4 +3,5 @@
 3.에나
 4.브랜치도 잘 하자
 5. novice 브랜치01
-6.novice 02
+6.novice 
+7. novice 03
